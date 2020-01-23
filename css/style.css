@@ -1,0 +1,30 @@
+form{
+	position: relative;
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+	color:#fff;
+}
+
+form input{
+	font-family: "Roboto" sans-serif;
+	background: #f2f2f2;
+	width: 90%;
+	border: 0;
+	margin: 0 0 15px;
+	padding: 15px;
+	font-size: 20px;
+}
+
+form a input{
+	font-family: "Roboto" sans-serif;
+	text-transform: uppercase;
+	background: #ca9548;
+	width: 96%;
+	border: 0;
+	padding: 15px;
+	color: #ffffff;
+	font-size: 20px;
+	cursor: pointer;
+}
